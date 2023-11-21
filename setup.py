@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['pandas','requests','datetime','logging','os'],
+    install_requires=['pandas'],
     keywords=['python', 'school', 'financial sector'],
     classifiers=[
         "Development Status :: 3 - Release",
